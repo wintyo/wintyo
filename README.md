@@ -2,6 +2,7 @@
 フロントエンド4年目です。TypeScriptとVue.jsをメインでやっています。
 
 ## アプリケーション(リンク先のリポジトリからWebアプリのページに飛べる)
++ [QRリーダーアプリ](https://github.com/wintyo/qr-reader)
 + [日記アプリ](https://github.com/wintyo/firebase-diary)
 + [Zipファイル差分出力アプリ](https://github.com/wintyo/diff-zip-file)
 + [YouTube動画ダウンロードアプリ](https://github.com/wintyo/youtube-downloader)
@@ -9,6 +10,7 @@
 
 ## リンク集
 + [qiita](https://qiita.com/wintyo)
++ [Zenn](https://zenn.dev/wintyo)
 + [npmパッケージ](https://www.npmjs.com/~wintyo)
 
 

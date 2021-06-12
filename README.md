@@ -8,7 +8,7 @@
 + [YouTube動画ダウンロードアプリ](https://github.com/wintyo/youtube-downloader)
 + [オセロゲーム](https://github.com/wintyo/othello-game)
 
-## Chrome拡張
+## Chrome拡張(リンク先のリポジトリからChrome拡張ページに飛べる)
 + [ショートカットキー割り当て](https://github.com/wintyo/chrome-extension-shortcut)
 + [YouTube広告動画URLゲッター](https://github.com/wintyo/chrome-extension-youtube-advertising)
 

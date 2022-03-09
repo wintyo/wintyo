@@ -1,5 +1,5 @@
 # 自己紹介
-フロントエンド4年目です。TypeScriptとVue.jsをメインでやっています。
+TypeScriptとNuxtをメインでやっています。
 
 ## アプリケーション(リンク先のリポジトリからWebアプリのページに飛べる)
 + [QRリーダーアプリ](https://github.com/wintyo/qr-reader)

@@ -1,3 +1,6 @@
+[![wintyo's github stats](https://github-readme-stats.vercel.app/api?username=wintyo&include_all_commits=true&count_private=true&show_icons=true&hide_rank=true&line_height=24)](https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_ja.md)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wintyo&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_ja.md)
+
 # 自己紹介
 TypeScriptとNuxtをメインでやっています。
 
@@ -14,6 +17,9 @@ TypeScriptとNuxtをメインでやっています。
 
 ## リンク集
 + [qiita](https://qiita.com/wintyo)
+  - [![My Qiita posts](https://qiita-badge.apiapi.app/s/wintyo/posts.svg)](http://qiita.com/wintyo)
+  - [![My Qiita contributions](https://qiita-badge.apiapi.app/s/wintyo/contributions.svg)](http://qiita.com/wintyo)
+  - [![My Qiita followers](https://qiita-badge.apiapi.app/s/wintyo/followers.svg)](http://qiita.com/wintyo)
 + [Zenn](https://zenn.dev/wintyo)
 + [npmパッケージ](https://www.npmjs.com/~wintyo)
 
